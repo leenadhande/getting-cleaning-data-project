@@ -8,4 +8,4 @@ This repository hosts the R code and documentation files for the Data Science's 
 
 `run_analysis.R` contains all the code to perform the analysis described in the 5 steps. They can be launched in RStudio by just importing the file.
 
-The output of the 5th step is called `secTidySet.txt`, and uploaded in the course project's form.
+The output of the 5th step is called `tidy.txt`, and uploaded in the course project's form.
